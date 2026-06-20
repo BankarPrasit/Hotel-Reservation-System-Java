@@ -43,28 +43,19 @@ java HotelReservationSystem
 ## Screenshots
 
 ### Main Menu
-
 ![Main Menu](menu.png)
 
 ### Available Rooms
-
-![Available Rooms](available-rooms.png)
+![Available Rooms](Available%20Rooms.png)
 
 ### Book Room
-
-![Book Room](book-room.png)
+![Book Room](Book%20Room.png)
 
 ### Booking Receipt
-
-![Booking Receipt](booking-receipt.png)
-
-### All Bookings
-
-![All Bookings](all-bookings.png)
+![Booking Receipt](Booking%20Receipt.png)
 
 ### Cancel Reservation
-
-![Cancel Reservation](cancel-booking.png)
+![Cancel Reservation](Cancel%20Reservation.png)
 
 ## Learning Outcomes
 
